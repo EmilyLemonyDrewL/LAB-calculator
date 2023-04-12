@@ -1,0 +1,44 @@
+.flex-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 400px;
+}
+
+  .button {
+    background-color: #d8d9db;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+  .button:hover {
+    background-color: #ebebeb;
+  }
+
+  .button:active {
+    background-color: #bbbcbe;
+  }
+
+.functionButton {
+    background-color: #df974c;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+  .functionButton:hover {
+    background-color: #dfb07e;
+  }
+
+  .functionButton:active {
+    background-color: #dd8d37;
+  }
